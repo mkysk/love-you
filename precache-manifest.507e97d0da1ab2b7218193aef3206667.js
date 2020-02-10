@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e041402bea8166d7332600edd688eb07",
+    "revision": "e116a62bf4cc404473e2b49389ffcbe7",
     "url": "/love-you/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/love-you/static/css/2.ed45abbb.chunk.css"
   },
   {
-    "revision": "22d0ca865afec8fbf07c",
+    "revision": "081495810b12544eba06",
     "url": "/love-you/static/css/main.e842e6c5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/love-you/static/js/2.d7a71f37.chunk.js"
   },
   {
-    "revision": "22d0ca865afec8fbf07c",
-    "url": "/love-you/static/js/main.fe67dcc9.chunk.js"
+    "revision": "081495810b12544eba06",
+    "url": "/love-you/static/js/main.db92fd65.chunk.js"
   },
   {
     "revision": "b59873a215d12b5c9a76",
