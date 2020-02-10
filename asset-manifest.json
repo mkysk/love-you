@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/mkysk/love-you/static/css/main.67591318.chunk.css",
-    "main.js": "/mkysk/love-you/static/js/main.fe67dcc9.chunk.js",
-    "main.js.map": "/mkysk/love-you/static/js/main.fe67dcc9.chunk.js.map",
-    "runtime-main.js": "/mkysk/love-you/static/js/runtime-main.7ac71565.js",
-    "runtime-main.js.map": "/mkysk/love-you/static/js/runtime-main.7ac71565.js.map",
-    "static/css/2.ed45abbb.chunk.css": "/mkysk/love-you/static/css/2.ed45abbb.chunk.css",
-    "static/js/2.d7a71f37.chunk.js": "/mkysk/love-you/static/js/2.d7a71f37.chunk.js",
-    "static/js/2.d7a71f37.chunk.js.map": "/mkysk/love-you/static/js/2.d7a71f37.chunk.js.map",
-    "index.html": "/mkysk/love-you/index.html",
-    "precache-manifest.d86f3249c9c4919af9409db51a97cb2b.js": "/mkysk/love-you/precache-manifest.d86f3249c9c4919af9409db51a97cb2b.js",
-    "service-worker.js": "/mkysk/love-you/service-worker.js",
-    "static/css/2.ed45abbb.chunk.css.map": "/mkysk/love-you/static/css/2.ed45abbb.chunk.css.map",
-    "static/css/main.67591318.chunk.css.map": "/mkysk/love-you/static/css/main.67591318.chunk.css.map",
-    "static/media/Code.css": "/mkysk/love-you/static/media/apple-chancery-webfont.e325e4f2.svg"
+    "main.css": "/love-you/static/css/main.41508752.chunk.css",
+    "main.js": "/love-you/static/js/main.fe67dcc9.chunk.js",
+    "main.js.map": "/love-you/static/js/main.fe67dcc9.chunk.js.map",
+    "runtime-main.js": "/love-you/static/js/runtime-main.451961ca.js",
+    "runtime-main.js.map": "/love-you/static/js/runtime-main.451961ca.js.map",
+    "static/css/2.ed45abbb.chunk.css": "/love-you/static/css/2.ed45abbb.chunk.css",
+    "static/js/2.d7a71f37.chunk.js": "/love-you/static/js/2.d7a71f37.chunk.js",
+    "static/js/2.d7a71f37.chunk.js.map": "/love-you/static/js/2.d7a71f37.chunk.js.map",
+    "index.html": "/love-you/index.html",
+    "precache-manifest.d4f93ebd3a3c82379739e418fb264c96.js": "/love-you/precache-manifest.d4f93ebd3a3c82379739e418fb264c96.js",
+    "service-worker.js": "/love-you/service-worker.js",
+    "static/css/2.ed45abbb.chunk.css.map": "/love-you/static/css/2.ed45abbb.chunk.css.map",
+    "static/css/main.41508752.chunk.css.map": "/love-you/static/css/main.41508752.chunk.css.map",
+    "static/media/Code.css": "/love-you/static/media/apple-chancery-webfont.e325e4f2.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ac71565.js",
+    "static/js/runtime-main.451961ca.js",
     "static/css/2.ed45abbb.chunk.css",
     "static/js/2.d7a71f37.chunk.js",
-    "static/css/main.67591318.chunk.css",
+    "static/css/main.41508752.chunk.css",
     "static/js/main.fe67dcc9.chunk.js"
   ]
 }
